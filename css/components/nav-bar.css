@@ -38,11 +38,8 @@
 }
 
 .nav__dot {
-  background-color: tomato;
-  position: absolute;
-  left: 35px;
-  bottom: 25px;
   width: 6px;
   height: 6px;
-  border-radius: 50%;
+  left: 35px;
+  bottom: 25px;
 }
